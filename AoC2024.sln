@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 1", "Day 1", "{0B1CD6C9-004C-42E8-AF9C-EC1A4029727B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1.ListDistance", "Day1.ListDistance\Day1.ListDistance.csproj", "{731B31D5-3EE9-4C8D-A6C1-834661DFB7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1.ListSimilarity", "Day1.ListSimilarity\Day1.ListSimilarity.csproj", "{0091C6A9-EBFC-4121-BF70-54CC0648F83C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{731B31D5-3EE9-4C8D-A6C1-834661DFB7D0} = {0B1CD6C9-004C-42E8-AF9C-EC1A4029727B}
+		{0091C6A9-EBFC-4121-BF70-54CC0648F83C} = {0B1CD6C9-004C-42E8-AF9C-EC1A4029727B}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731B31D5-3EE9-4C8D-A6C1-834661DFB7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731B31D5-3EE9-4C8D-A6C1-834661DFB7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731B31D5-3EE9-4C8D-A6C1-834661DFB7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731B31D5-3EE9-4C8D-A6C1-834661DFB7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0091C6A9-EBFC-4121-BF70-54CC0648F83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0091C6A9-EBFC-4121-BF70-54CC0648F83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0091C6A9-EBFC-4121-BF70-54CC0648F83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0091C6A9-EBFC-4121-BF70-54CC0648F83C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
