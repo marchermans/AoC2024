@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1.ListDistance", "Day1.L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1.ListSimilarity", "Day1.ListSimilarity\Day1.ListSimilarity.csproj", "{0091C6A9-EBFC-4121-BF70-54CC0648F83C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 2", "Day 2", "{2D01C664-3E42-4C99-8EA5-3719E57C9E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2.ReportSafety", "Day2.ReportSafety\Day2.ReportSafety.csproj", "{2E97B0A4-E72D-4049-B857-825D27C2B06A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +18,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{731B31D5-3EE9-4C8D-A6C1-834661DFB7D0} = {0B1CD6C9-004C-42E8-AF9C-EC1A4029727B}
 		{0091C6A9-EBFC-4121-BF70-54CC0648F83C} = {0B1CD6C9-004C-42E8-AF9C-EC1A4029727B}
+		{2E97B0A4-E72D-4049-B857-825D27C2B06A} = {2D01C664-3E42-4C99-8EA5-3719E57C9E9F}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{731B31D5-3EE9-4C8D-A6C1-834661DFB7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -24,5 +29,9 @@ Global
 		{0091C6A9-EBFC-4121-BF70-54CC0648F83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0091C6A9-EBFC-4121-BF70-54CC0648F83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0091C6A9-EBFC-4121-BF70-54CC0648F83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E97B0A4-E72D-4049-B857-825D27C2B06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E97B0A4-E72D-4049-B857-825D27C2B06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E97B0A4-E72D-4049-B857-825D27C2B06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E97B0A4-E72D-4049-B857-825D27C2B06A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
