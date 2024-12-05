@@ -28,6 +28,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 5", "Day 5", "{6690BC19
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5.MiddleOfCorrectlyOrdered", "Day5.MiddleOfCorrectlyOrdered\Day5.MiddleOfCorrectlyOrdered.csproj", "{68074149-0BDC-422A-8CA2-776AF1F31FC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5.MiddleOfFixedIncorrect", "Day5.MiddleOfFixedIncorrect\Day5.MiddleOfFixedIncorrect.csproj", "{3855E115-9999-46D8-A652-A8038B8A4E19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,7 @@ Global
 		{422AEDEA-B6E9-49D6-ACEC-AFE88D49637F} = {72FCBE24-D299-4805-9D3C-432437389F5A}
 		{3C43D6E1-F7E1-47A4-BBBA-C5BBED27B1F5} = {72FCBE24-D299-4805-9D3C-432437389F5A}
 		{68074149-0BDC-422A-8CA2-776AF1F31FC5} = {6690BC19-E2CF-487C-A59C-82F45358ABC9}
+		{3855E115-9999-46D8-A652-A8038B8A4E19} = {6690BC19-E2CF-487C-A59C-82F45358ABC9}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{731B31D5-3EE9-4C8D-A6C1-834661DFB7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -81,5 +84,9 @@ Global
 		{68074149-0BDC-422A-8CA2-776AF1F31FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68074149-0BDC-422A-8CA2-776AF1F31FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68074149-0BDC-422A-8CA2-776AF1F31FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3855E115-9999-46D8-A652-A8038B8A4E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3855E115-9999-46D8-A652-A8038B8A4E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3855E115-9999-46D8-A652-A8038B8A4E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3855E115-9999-46D8-A652-A8038B8A4E19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
